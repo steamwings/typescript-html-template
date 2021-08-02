@@ -1,7 +1,7 @@
 {
-  "name": "deepspeech-ts",
+  "name": "template-ts",
   "version": "1.0.0",
-  "description": "Basic TypeScript project to demonstrate client-side use of DeepSpeech JavaScript API",
+  "description": "Basic TypeScript project",
   "main": "src/index.ts",
   "devDependencies": {
     "ts-loader": "^9.2.4",
